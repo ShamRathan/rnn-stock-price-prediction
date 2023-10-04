@@ -130,6 +130,7 @@ mse(y_test,predicted_stock_price)
 
 
 ### Mean Square Error
+![image](https://github.com/ShamRathan/rnn-stock-price-prediction/assets/93587823/0d57bc9c-7d76-43ad-835d-e83b27a309eb)
 
 
 ## RESULT:
